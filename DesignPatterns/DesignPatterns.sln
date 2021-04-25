@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{DD117A32-4629-4C9D-864D-441C204FADF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{DD117A32-4629-4C9D-864D-441C204FADF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thermometer", "Thermometer\Thermometer.csproj", "{61ED3D2F-9922-4E38-8005-743FDF43DFEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thermometer", "Thermometer\Thermometer.csproj", "{61ED3D2F-9922-4E38-8005-743FDF43DFEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{F2B09BB4-8035-402F-9CE7-C5D31B4CCA2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{F2B09BB4-8035-402F-9CE7-C5D31B4CCA2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonTests", "SingletonTests\SingletonTests.csproj", "{1C2BAEEE-04A9-4E27-A5D0-E472AF3F8B5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonTests", "SingletonTests\SingletonTests.csproj", "{1C2BAEEE-04A9-4E27-A5D0-E472AF3F8B5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactoryPattern", "SimpleFactoryPattern\SimpleFactoryPattern.csproj", "{DF99A4A1-B7B3-411F-8A79-DF7BACA8A3A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleFactoryPattern", "SimpleFactoryPattern\SimpleFactoryPattern.csproj", "{DF99A4A1-B7B3-411F-8A79-DF7BACA8A3A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactoryPatternTests", "SimpleFactoryPatternTests\SimpleFactoryPatternTests.csproj", "{2A965E5C-1808-451B-8626-9F127ACD1D5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleFactoryPatternTests", "SimpleFactoryPatternTests\SimpleFactoryPatternTests.csproj", "{2A965E5C-1808-451B-8626-9F127ACD1D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{C313E9E0-0DA4-4BF8-B271-5704C6F0FFD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarineApplication", "MarineAppliaction\MarineApplication.csproj", "{F10EC4E2-37CF-4D42-8ABA-6CE727F0BA17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{2A965E5C-1808-451B-8626-9F127ACD1D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A965E5C-1808-451B-8626-9F127ACD1D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A965E5C-1808-451B-8626-9F127ACD1D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C313E9E0-0DA4-4BF8-B271-5704C6F0FFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C313E9E0-0DA4-4BF8-B271-5704C6F0FFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C313E9E0-0DA4-4BF8-B271-5704C6F0FFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C313E9E0-0DA4-4BF8-B271-5704C6F0FFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10EC4E2-37CF-4D42-8ABA-6CE727F0BA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10EC4E2-37CF-4D42-8ABA-6CE727F0BA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10EC4E2-37CF-4D42-8ABA-6CE727F0BA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10EC4E2-37CF-4D42-8ABA-6CE727F0BA17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
