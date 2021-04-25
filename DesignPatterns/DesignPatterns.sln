@@ -15,6 +15,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleFactoryPattern", "Sim
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleFactoryPatternTests", "SimpleFactoryPatternTests\SimpleFactoryPatternTests.csproj", "{2A965E5C-1808-451B-8626-9F127ACD1D5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{C313E9E0-0DA4-4BF8-B271-5704C6F0FFD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarineApplication", "MarineAppliaction\MarineApplication.csproj", "{F10EC4E2-37CF-4D42-8ABA-6CE727F0BA17}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBuilderPattern", "FluentBuilderPattern\FluentBuilderPattern.csproj", "{19852857-54F6-479C-A4FD-37FB0D6C4678}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarineApplication", "MarineApplication\MarineApplication.csproj", "{C471965E-1CF9-4361-B4A0-99F6DBE7623C}"
